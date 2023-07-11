@@ -2424,6 +2424,13 @@ input, select, textarea {
 				width: 100%;
 			}
 
+/* index project images	*/
+
+		#first .features li .image img {
+			max-width: 100%;
+			height: auto;
+		}
+
 /* bellabeat image main */
 
 		.resizable-image {
